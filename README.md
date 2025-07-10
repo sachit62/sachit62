@@ -1,7 +1,5 @@
 # 👨‍💻 Sachit Kapoor
 
-![Profile Photo](./resources/profile-photo.jpeg)
-
 ## 💫 About Me
 
 Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech enthusiast currently pursuing **B.Tech in Information Technology** at **RCOEM, Nagpur (2023–2027)**.
