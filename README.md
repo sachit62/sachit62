@@ -17,7 +17,7 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
 
 ---
 
-## 💼 Tech Stack & Skills
+## 💼 Language & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -36,30 +36,6 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
 </p>
-
-### 💻 Programming Languages:
-- Java – ★★★★★ (90%)
-- JavaScript – ★★★★☆ (85%)
-- Python – ★★★☆☆ (75%)
-- C++ – ★★★☆☆ (70%)
-
-### 🧱 Frameworks & Libraries:
-- React – ★★★★★
-- Node.js & Express – ★★★★☆
-- Next.js – ★★★★☆
-
-### 🗄️ Databases:
-- SQL – ★★★★★
-- MongoDB – ★★★★☆
-
-### 🧠 AI & ML:
-- TensorFlow – ★★★☆☆
-- OpenCV – ★★★☆☆
-
-### 🔧 Tools:
-- Git – ★★★★★
-- Docker – ★★★★☆
-- Kubernetes – ★★★★☆
 
 ---
 
