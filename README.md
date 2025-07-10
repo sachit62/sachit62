@@ -17,7 +17,7 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
 
 ---
 
-## 💼 Tech Stack & Skills
+## 💼 Language & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
