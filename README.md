@@ -11,9 +11,9 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
 ## 🚀 What I'm Up To
 
 - 🌱 Learning and building projects with **MERN Stack**, **Next.js**.
-- 🧠 Exploring **Machine Learning** and **Computer Vision** using **TensorFlow** and **OpenCV**
-- 🔭 Actively solving **DSA** problems on **LeetCode** and **CodeChef**
-- 💼 Open to internships, freelance projects, and collaborations!
+- 🧠 Exploring **Machine Learning** and **Deep Learning** using **TensorFlow**.
+- 🔭 Actively solving **DSA** problems on **LeetCode** and **CodeChef**.
+- 💼 **Open to internships, freelance projects, and collaborations!**
 
 ---
 
