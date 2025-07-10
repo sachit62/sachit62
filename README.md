@@ -52,10 +52,6 @@ Feel free to reach out for **collaborations**, **opportunities**, or a friendly 
 - 📧 Email: [sachitkapoor62@gmail.com](mailto:sachitkapoor62@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sachit-62-k/)
 - 🐱 [GitHub](https://github.com/sachit62)
-- 📸 [Instagram](https://www.instagram.com/sachit._.62?igsh=eTA4cmtjYjF0MHho)
-- 📘 [Facebook](https://www.facebook.com/share/16UoDWMseN/)
-
-📄 [Download My Resume](./resources/html.jpg)
 
 ---
 
