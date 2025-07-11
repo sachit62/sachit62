@@ -42,7 +42,7 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachit62&theme=default" alt="GitHub Streak" />
+  <<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachit62&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
