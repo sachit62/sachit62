@@ -1,4 +1,3 @@
-<!-- Animated Name Section -->
 <h1 align="center">
   👨‍💻 <a href="https://github.com/sachit62" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=wave&height=180&text=Sachit%20Kapoor&fontAlign=50&fontAlignY=40&color=0:9A4DFF,100:36BCF7&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&animation=twinkling" alt="Animated Banner - Sachit Kapoor" />
@@ -37,7 +36,7 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Cloud" width="45" height="45" title="AWS Cloud"/>
+  <img src="https://cdn.simpleicons.org/icloud/0ABAB5" alt="Cloud" width="45" height="45" title="Cloud"/>
 </p>
 
 ---
