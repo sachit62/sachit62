@@ -1,7 +1,7 @@
 <!-- Animated Name Section -->
 <h1 align="center">
   👨‍💻 <a href="https://github.com/sachit62" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=9A4DFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sachit+Kapoor+🚀;Full+Stack+Developer+%7C+Tech+Enthusiast+💻;Always+Learning+New+Things+🌱" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=wave&height=180&text=Sachit%20Kapoor&fontAlign=50&fontAlignY=40&color=0:9A4DFF,100:36BCF7&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&animation=twinkling" alt="Animated Banner - Sachit Kapoor" />
   </a>
 </h1>
 
@@ -17,7 +17,7 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
 
 ## 🚀 What I'm Up To
 
-- 🌱 Learning and building projects with **MERN Stack**, **Cloud**, **Python**, **SQL**, and **Java**.  
+- 🌱 Learning and building projects with **MERN Stack**, **Python**, **SQL**, and **Java**.  
 - 🔭 Actively solving **DSA** problems on **LeetCode** and **CodeChef**.  
 - 💼 **Open to internships, freelance projects, and collaborations!**
 
@@ -37,7 +37,7 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS Cloud" width="45" height="45" title="AWS Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS Cloud" width="45" height="45" title="AWS Cloud"/>
 </p>
 
 ---
@@ -46,14 +46,6 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sachit62&theme=tokyonight&hide_border=true" alt="sachit62 Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachit62&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachit62&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
