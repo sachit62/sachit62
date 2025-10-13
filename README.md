@@ -1,6 +1,6 @@
 <h1 align="center">
-  👨‍💻 <a href="https://github.com/sachit62" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=wave&height=180&text=Sachit%20Kapoor&fontAlign=50&fontAlignY=40&color=0:9A4DFF,100:36BCF7&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=65&animation=twinkling" alt="Animated Banner - Sachit Kapoor" />
+  👨‍💻 <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=ROBOTO&weight=600&size=28&pause=1000&color=B771F7&center=true&vCenter=true&width=435&lines=Sachit+Kapoor+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h1>
 
