@@ -1,8 +1,8 @@
-<h1 align="center">
-   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=ROBOTO&weight=600&size=28&pause=1000&color=B771F7&center=true&vCenter=true&width=435&lines=Sachit+Kapoor+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</h1>
+# Hello there,
+<div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Sachit+Kapoor;Web+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
+</div>
 
 ---
 
