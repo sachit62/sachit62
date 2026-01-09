@@ -1,24 +1,41 @@
-# Hello there,
-<div>
+<div align="center">
+  
+# 👋 Hey there! I'm Sachit Kapoor
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Sachit+Kapoor;Web+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
+
+### 🎯 Passionate Developer | 🚀 Building the Future, One Line at a Time
+
+[![GitHub followers](https://img.shields.io/github/followers/sachit62?style=for-the-badge&logo=github&color=0EB4F7&labelColor=0a0a0a)](https://github.com/sachit62)
+[![GitHub stars](https://img.shields.io/github/stars/sachit62?style=for-the-badge&logo=github&color=0EB4F7&labelColor=0a0a0a)](https://github.com/sachit62)
+![Profile Views](https://komarev.com/ghpvc/?username=sachit62&color=0EB4F7&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
 ## 💫 About Me
 
-Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech enthusiast currently pursuing **B.Tech in Information Technology** at **RCOEM, Nagpur (2023–2027)**.
+<div align="center">
 
-> I thrive on solving challenging problems and constantly push myself to learn new tools, technologies, and frameworks in the ever-evolving tech landscape. I enjoy building full-stack web applications and exploring the exciting worlds of **AI** and **cloud computing**.
+Hi, I'm **Sachit Kapoor** (he/him) – a passionate and self-motivated tech enthusiast currently pursuing **B.Tech in Information Technology** at **RCOEM, Nagpur (2023–2027)**.
+
+> 💡 I thrive on solving challenging problems and constantly push myself to learn new tools, technologies, and frameworks in the ever-evolving tech landscape. I enjoy building full-stack web applications and exploring the exciting worlds of **AI** 🤖 and **cloud computing** ☁️.
+
+</div>
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 🌱 Learning and building projects with **MERN Stack**, **Python**, **SQL**, and **Java**.  
-- 🔭 Actively solving **DSA** problems on **LeetCode** and **CodeChef**.  
-- 💼 **Open to internships, freelance projects, and collaborations!**
+<div align="center">
+
+- 🌱 **Learning** and building projects with **MERN Stack**, **Python**, **SQL**, and **Java**  
+- 🔭 Actively solving **DSA** problems on **LeetCode** and **CodeChef**  
+- 💼 **Open to internships, freelance projects, and collaborations!**  
+- ⚡ Fun fact: I love turning coffee ☕ into code 💻
+
+</div>
 
 ---
 
@@ -43,21 +60,41 @@ Hi, I’m **Sachit Kapoor** (he/him) – a passionate and self-motivated tech en
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachit62&theme=tokyonight&hide_border=true" alt="sachit62 Streak Stats" />
-</p>
+<div align="center">
+  
+![Sachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachit62&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=0EB4F7&icon_color=0EB4F7&text_color=ffffff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sachit62&theme=tokyonight&hide_border=true&background=0a0a0a&ring=0EB4F7&fire=0EB4F7&currStreakLabel=0EB4F7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachit62&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=0EB4F7&text_color=ffffff)
+
+</div>
 
 ---
 
 ## 📬 Let's Connect
 
-<p align="center">
-  <a href="mailto:sachitkapoor62@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sachit-62-k/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/sachit62"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachitkapoor62@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit-62-k/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachit62)
+
+**Feel free to reach out! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.** 🚀
+
+</div>
 
 ---
 
-> ✨ *“Discipline, curiosity, and a constant desire to grow – that’s what drives me.”*  
-> – **Sachit Kapoor**
+<div align="center">
+
+### ✨ *"Discipline, curiosity, and a constant desire to grow – that's what drives me."*  
+#### – **Sachit Kapoor**
+
+---
+
+![Snake animation](https://github.com/sachit62/sachit62/blob/output/github-contribution-grid-snake.svg)
+
+⭐️ From [sachit62](https://github.com/sachit62)
+
+</div>
