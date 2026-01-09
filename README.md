@@ -1,80 +1,56 @@
-<div align="center">
-  
 # 👋 Hey there! I'm Sachit Kapoor
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=I'm+Sachit+Kapoor;Web+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=Web+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
 
 ### 🎯 Passionate Developer | 🚀 Building the Future, One Line at a Time
-
-[![GitHub followers](https://img.shields.io/github/followers/sachit62?style=for-the-badge&logo=github&color=0EB4F7&labelColor=0a0a0a)](https://github.com/sachit62)
-[![GitHub stars](https://img.shields.io/github/stars/sachit62?style=for-the-badge&logo=github&color=0EB4F7&labelColor=0a0a0a)](https://github.com/sachit62)
-![Profile Views](https://komarev.com/ghpvc/?username=sachit62&color=0EB4F7&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 ---
 
 ## 💫 About Me
 
-<div align="center">
-
 Hi, I'm **Sachit Kapoor** (he/him) – a passionate and self-motivated tech enthusiast currently pursuing **B.Tech in Information Technology** at **RCOEM, Nagpur (2023–2027)**.
 
 > 💡 I thrive on solving challenging problems and constantly push myself to learn new tools, technologies, and frameworks in the ever-evolving tech landscape. I enjoy building full-stack web applications and exploring the exciting worlds of **AI** 🤖 and **cloud computing** ☁️.
 
-</div>
-
 ---
 
 ## 🚀 What I'm Up To
-
-<div align="center">
 
 - 🌱 **Learning** and building projects with **MERN Stack**, **Python**, **SQL**, and **Java**  
 - 🔭 Actively solving **DSA** problems on **LeetCode** and **CodeChef**  
 - 💼 **Open to internships, freelance projects, and collaborations!**  
 - ⚡ Fun fact: I love turning coffee ☕ into code 💻
 
-</div>
-
 ---
 
 ## 💼 Languages & Tools
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" title="GitHub"/>
-  <img src="https://cdn.simpleicons.org/icloud/0ABAB5" alt="Cloud" width="45" height="45" title="Cloud"/>
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45" title="Express"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45" title="GitHub"/>
+<img src="https://cdn.simpleicons.org/icloud/0ABAB5" alt="Cloud" width="45" height="45" title="Cloud"/>
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
 ![Sachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachit62&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=0EB4F7&icon_color=0EB4F7&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sachit62&theme=tokyonight&hide_border=true&background=0a0a0a&ring=0EB4F7&fire=0EB4F7&currStreakLabel=0EB4F7)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachit62&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=0EB4F7&text_color=ffffff)
 
-</div>
-
 ---
 
 ## 📬 Let's Connect
-
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachitkapoor62@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit-62-k/)
@@ -82,19 +58,11 @@ Hi, I'm **Sachit Kapoor** (he/him) – a passionate and self-motivated tech enth
 
 **Feel free to reach out! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.** 🚀
 
-</div>
-
 ---
-
-<div align="center">
 
 ### ✨ *"Discipline, curiosity, and a constant desire to grow – that's what drives me."*  
 #### – **Sachit Kapoor**
 
 ---
 
-![Snake animation](https://github.com/sachit62/sachit62/blob/output/github-contribution-grid-snake.svg)
-
-⭐️ From [sachit62](https://github.com/sachit62)
-
-</div>
+![Snake animation](https://raw.githubusercontent.com/sachit62/sachit62/output/github-contribution-grid-snake.svg)
