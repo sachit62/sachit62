@@ -28,9 +28,7 @@ Hi, I'm **Sachit Kapoor** (he/him) – a passionate and self-motivated tech enth
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sachit62&theme=tokyonight&hide_border=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=sachit62&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachit62&theme=tokyonight&hide_border=false&count_private=false&layout=compact)
 
 ---
 
