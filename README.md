@@ -108,11 +108,6 @@ I’m committed to consistent growth through hands-on projects, problem-solving,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit-62-k/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachit62)
 
-**Feel free to reach out! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.** 🚀
-
----
-
-### ✨ *"Discipline, curiosity, and a constant desire to grow – that's what drives me."*  
-#### – **Sachit Kapoor**
+**Feel free to reach out! I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.** 
 
 ---
