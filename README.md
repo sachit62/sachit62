@@ -31,7 +31,7 @@ I’m committed to consistent growth through hands-on projects, problem-solving,
 </a>
 
 <a href="https://expressjs.com" target="_blank" title="Express.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="45" style="filter: invert(1);"/>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank" title="Firebase">
