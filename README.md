@@ -96,9 +96,9 @@ I’m committed to consistent growth through hands-on projects, problem-solving,
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=sachit62&theme=tokyonight&hide_border=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sachit62&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachit62&theme=tokyonight&hide_border=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sachit62&show_icons=true&theme=tokyonight&cache_seconds=60)
+![](https://nirzak-streak-stats.vercel.app/?user=sachit62&theme=tokyonight&cache_seconds=60)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachit62&layout=compact&theme=tokyonight&cache_seconds=60)
 
 ---
 
