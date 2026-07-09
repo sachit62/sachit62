@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Sachit Kapoor
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;CS+Undergrad;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0EB4F7&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;IT+Undergrad;)](https://git.io/typing-svg)
 
 ---
 
