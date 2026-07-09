@@ -4,21 +4,23 @@
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-Hi, I'm **Sachit Kapoor** (he/him) — a passionate and self-driven tech enthusiast currently pursuing a **B.Tech in Information Technology** at **RCOEM, Nagpur (2023–2027)**.
+Hi, I'm **Sachit Kapoor** (he/him), a final-year **B.Tech Information Technology** student at **Shri Ramdeobaba College of Engineering and Management (RCOEM), Nagpur**.
 
-I enjoy tackling challenging problems and continuously expanding my skill set across modern technologies and frameworks. With a strong interest in **full-stack development**, I focus on building practical, real-world applications while staying curious about emerging trends in the tech ecosystem.
+I'm passionate about building software that solves real-world problems. I primarily work with **MERN Stack, Java, Python,** and **SQL**, and I'm always eager to learn and explore new technologies.
 
-I’m committed to consistent growth through hands-on projects, problem-solving, and exploring new domains in software development.
+I continuously sharpen my problem-solving skills through **Data Structures & Algorithms (DSA)** while exploring modern technologies and expanding my technical expertise. I enjoy taking on new challenges, learning from every experience, and building solutions that create meaningful impact.
 
 ---
 
-## 🚀 What I'm Up To
+# 🚀 What I'm Up To
 
-- 🌱 Currently building projects and strengthening my skills in the **MERN Stack** and **Java development**.  
-- 🔭 Actively practicing **Data Structures & Algorithms (DSA)** to enhance problem-solving and analytical thinking.  
-- 💼 Open to **internships, freelance opportunities, and collaborations** where I can contribute and grow.  
+- 🌱 Building full-stack applications and exploring modern technologies.
+- 🧠 Continuously improving my problem-solving skills through Data Structures & Algorithms (DSA).
+- 🤖 Expanding my knowledge in Artificial Intelligence & Machine Learning.
+- ☁️ Exploring Cloud Computing and its practical applications.
+- 💼 Open to internships, freelance opportunities, and collaborations.
 
 ---
 
